@@ -1,1 +1,1 @@
-# nj-newton-cradle
+# Pendulum
